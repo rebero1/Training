@@ -1,6 +1,6 @@
 
 #%%
-
+import numpy as np
 from keras.layers import Flatten, Dense
 import seaborn as sns
 import matplotlib.pyplot as plt
